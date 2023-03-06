@@ -1,0 +1,71 @@
+*,
+*,
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+html {
+	font-size: 62.5%;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	font-family: 'Outfit', sans-serif;
+	font-size: 15px;
+	background-color: hsl(212, 45%, 89%);
+}
+
+.box-qr {
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+	text-align: center;
+	width: 370px;
+	min-height: 400px;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 15px;
+	&__text-box {
+		margin: 0.4em 2em 2em 2em;
+	}
+	&__text-box h3 {
+		padding-bottom: 1em;
+		font-size: 1.4rem;
+		font-weight: bold;
+	}
+	&__text-box p {
+		font-size: 1rem;
+	}
+	&__img {
+		margin: 1em;
+		width: 90%;
+		border-radius: 15px;
+	}
+}
+
+@media screen and (min-width: 375px) {
+	.box-qr {
+		&__text-box h3 {
+			font-size: 2rem;
+		}
+		&__text-box p {
+			font-size: 1.8rem;
+		}
+	}
+}
+@media screen and (min-width: 1440px) {
+	.box-qr {
+		width: 420px;
+		&__text-box h3 {
+			font-size: 2.8rem;
+		}
+		&__text-box p {
+			padding: 0 1.2em;
+			font-size: 2.6rem;
+		}
+	}
+}
