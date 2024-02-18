@@ -1,3 +1,7 @@
+Live Server: https://jocular-biscochitos-41f30b.netlify.app/
+![Nowy obraz mapy bitowej](https://github.com/Kamilbd/qr-code-component-main/assets/99655638/7088ae85-3c00-4a1d-9838-5ab32dd7789e)
+
+
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
