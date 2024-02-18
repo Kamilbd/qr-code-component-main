@@ -1,5 +1,4 @@
-Live Server: https://jocular-biscochitos-41f30b.netlify.app/
-![Nowy obraz mapy bitowej](https://github.com/Kamilbd/qr-code-component-main/assets/99655638/7088ae85-3c00-4a1d-9838-5ab32dd7789e)
+
 
 
 # Frontend Mentor - QR code component solution
