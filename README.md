@@ -1,4 +1,5 @@
-
+Live server: https://main--deluxe-kleicha-91bc83.netlify.app/
+![Nowy obraz mapy bitowej](https://github.com/Kamilbd/qr-code-component-main/assets/99655638/3f087809-db27-4d91-820b-9db7aab62aa9)
 
 
 # Frontend Mentor - QR code component solution
